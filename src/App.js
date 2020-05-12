@@ -12,7 +12,7 @@ function App() {
     selected:{}
   });
 
-  const apiurl="http://www.omdbapi.com/?apikey=39df1606";
+  const apiurl="Your API Key";
 
   const search =(e) =>{
 
